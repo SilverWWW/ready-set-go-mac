@@ -8,3 +8,4 @@ Auto installs and configures numerous Mac quality-of-life apps and extensions.
 - [Lunar](https://lunar.fyi/) *(better brightness control)*
 - [AltTab](https://alt-tab.app/) *(better app switching)*
 - [CleanShotX](https://cleanshot.com/) *(better screenshotting +more)*
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) *(prevents sleeping on shell close)*
