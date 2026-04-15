@@ -10,3 +10,6 @@ Auto installs and configures numerous Mac quality-of-life apps and extensions.
 - [CleanShotX](https://cleanshot.com/) *(better screenshotting +more)*
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) *(prevents sleeping on shell close)*
 - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960) *(saves clipboard history)*
+
+### System configurations:
+- *\[Something with widgets\]*
